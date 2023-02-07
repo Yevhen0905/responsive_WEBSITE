@@ -1,0 +1,18 @@
+.footer{
+    background-color: #343A40;
+    padding: 1.875rem 0;
+ }
+ .footer__container{
+    display: flex;
+    justify-content: space-between;
+    gap: 0.9375rem;
+    color: #E5E5E5;
+    line-height: 128,57%; /*18/14*/
+ }
+ .footer_text{
+    text-transform: uppercase;
+    font-weight: 700;
+ }
+ .footer_up:hover {
+    text-decoration: underline;
+ }
